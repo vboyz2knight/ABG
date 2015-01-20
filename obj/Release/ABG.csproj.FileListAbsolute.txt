@@ -1,0 +1,4 @@
+C:\Projects\Demo2015_1\ABG\bin\Release\ABG.dll
+C:\Projects\Demo2015_1\ABG\bin\Release\ABG.pdb
+C:\Projects\Demo2015_1\ABG\obj\Release\ABG.dll
+C:\Projects\Demo2015_1\ABG\obj\Release\ABG.pdb
